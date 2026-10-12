@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "NTLKwIEx"]
 	path = NTLKwIEx
-	url = https://github.com/cran/NTLKwIEx
+	url = https://github.com/otodji/ntlkwiex
 [submodule "PTLENKies"]
 	path = PTLENKies
 	url = https://github.com/otodji/ptlenkies
